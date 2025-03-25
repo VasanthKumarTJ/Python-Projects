@@ -37,5 +37,5 @@ while True:
 
     print(f"You picked {user_input.upper()}, Computer picked  {computer_choice.upper()}")
     print("You won", user_wins, "times")
-    print("The computer won", computer_wins, "times")
+    print("The   won", computer_wins, "times")
 print("Goodbye!")
