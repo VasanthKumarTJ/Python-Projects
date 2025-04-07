@@ -44,6 +44,3 @@ A collection of Python projects organized by difficulty. Perfect for practicing 
 - **#20** – Aim Trainer
 - **#21** – Advanced Python Scripting
 
----
-
-Let me know if you'd like to add descriptions, tags (e.g. `tkinter`, `pygame`, `API`), or visuals like badges or preview images!
